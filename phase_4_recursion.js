@@ -12,13 +12,3 @@ function range(start, end) {
 }
 
 console.log(range(1, 10));
-
-/* 
-sumRec(arr) - receives an array of numbers and recursively sums them
-*/
-
-function sumRec(arr) {
-  if (arr.length === 0) {
-    return 0;
-  }
-}
